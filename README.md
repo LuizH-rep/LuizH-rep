@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Luiz Henrique and I'm a student at the , from ....</p>
+<p align="left">My name is Luiz Henrique and i'm a student at the IFCE School</p>
 
 ###
 
