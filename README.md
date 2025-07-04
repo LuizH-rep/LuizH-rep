@@ -1,9 +1,6 @@
 <h2 align="left">👋 Olá, eu sou o Luiz Henrique!
 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no primeiro semestre, e tenho me dedicado intensamente ao aprendizado e prática das tecnologias fundamentais para o desenvolvimento front-end. Possuo uma base sólida em HTML, CSS, JavaScript e Bootstrap, com projetos pessoais e experiências voluntárias que me permitiram aplicar esses conhecimentos na prática.
-
-Aqui no meu GitHub você vai encontrar meus projetos, estudos e experimentações enquanto evoluo na jornada como desenvolvedor. Estou sempre aprendendo e aberto a feedbacks e colaborações!
-
-Sinta-se à vontade para explorar os repositórios, deixar sugestões ou entrar em contato. 🚀</h2>
+ 🚀</h2>
 
 ###
 
@@ -15,11 +12,11 @@ Sinta-se à vontade para explorar os repositórios, deixar sugestões ou entrar 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="10" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="10" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
